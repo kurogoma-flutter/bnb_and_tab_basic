@@ -1,0 +1,36 @@
+name: flutter_intermediate_2
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0-80.1.beta <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  intl: ^0.17.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/image1.jpg
+    - assets/images/genshin1.jpeg
+    - assets/images/genshin2.jpeg
+    - assets/images/genshin3.jpeg
+    - assets/images/genshin4.jpeg
+    - assets/images/genshin5.jpeg
+    - assets/images/hotel1.jpeg
+    - assets/images/hotel2.jpeg
+    - assets/images/hotel3.jpeg
+    - assets/images/hotel4.jpeg
+    - assets/images/paris.jpeg
+    - assets/images/amsterdam.jpeg
+    - assets/images/sydney.jpeg
+    - assets/images/venis.jpeg
+    - assets/images/cat.jpeg
